@@ -1,0 +1,16 @@
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\libtcod-net.dll
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\icicle.bmp
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\libtcod-net-unmanaged.dll
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\libtcod-VS.dll
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\SDL.dll
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\zlib1.dll
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\font_16x16.png
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\Stygia.exe.config
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\Stygia.exe
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\Stygia.pdb
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\VorbisDotNet.dll
+C:\StygiaDev\StygiaProj\Stygia\obj\Debug\ResolveAssemblyReference.cache
+C:\StygiaDev\StygiaProj\Stygia\obj\Debug\Stygia.exe
+C:\StygiaDev\StygiaProj\Stygia\obj\Debug\Stygia.pdb
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\end.bmp
+C:\StygiaDev\StygiaProj\Stygia\bin\Debug\failure.bmp

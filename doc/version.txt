@@ -1,0 +1,18 @@
+Stygia v0.12 - 15/03/2011
+=========================
+- Fixed an issue with the view not being centred on the player after 
+  using a scroll of Teleportation.
+- Added a version notifier to the title screen.
+- Added a command to display version information in-game ('V').
+- The Quit ('Q') command now works properly.
+
+Stygia v0.11 - 14/03/2011
+=========================
+- Fixed an issue that would sometimes prevent monsters from moving and 
+  doing stuff on their turns.
+- Fixed an issue with monsters accidentally stacking on the same square 
+  and resulting in one of them being undetectable/unattackable.
+
+Stygia v0.1 - 13/03/2011
+========================
+Initial Release for the 7DRL Competition
